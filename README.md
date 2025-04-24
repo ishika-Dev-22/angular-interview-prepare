@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularInterviewPrepare
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# angular-interview-prepare
+>>>>>>> 179b52caf487faac10d4dd20d8831443cf381b1a
